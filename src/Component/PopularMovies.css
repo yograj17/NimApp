@@ -1,0 +1,30 @@
+.PopularMovies-heroSection {
+  background: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 100px;
+  color: white;
+}
+.load-more {
+  background: red;
+  color: white;
+  width: 200px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  font-size: x-large;
+  font-weight: 900;
+  cursor: pointer;
+}
+.load-main {
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
